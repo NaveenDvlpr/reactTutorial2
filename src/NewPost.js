@@ -18,6 +18,7 @@ const NewPost = ({
           <label htmlFor="postBody">Post:</label>
           <textarea
             id="postBody"
+            value={postBody}
             required
             onChange={(e) => setPostBody(e.target.value)}
             />
