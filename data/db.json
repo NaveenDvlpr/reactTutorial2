@@ -1,12 +1,6 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "My First Post",
-      "dateTime": "May 24, 2023 12:52:05 PM",
-      "body": "First Post has been updated\n"
-    },
-    {
       "id": 2,
       "title": "My Second Post",
       "dateTime": "May 25, 2023 9:17:37 PM",
@@ -19,16 +13,16 @@
       "body": "Third Post is Sweet."
     },
     {
-      "id": 4,
-      "title": "My 4th Post",
-      "dateTime": "May 24, 2023 12:52:23 PM",
-      "body": "Ahhh.... Here we go again."
-    },
-    {
       "id": 5,
       "title": "Hypertrophy",
-      "dateTime": "May 25, 2023 10:20:49 PM",
+      "dateTime": "May 25, 2023 11:53:41 PM",
       "body": "Hypertrophy is an act of bodybuilding where we train muscles for more sets with medium reps of a considerable amount of resistance to exhaust muscles. Let's go..."
+    },
+    {
+      "id": 6,
+      "title": "Sample",
+      "dateTime": "May 25, 2023 11:58:10 PM",
+      "body": "Sample"
     }
   ]
 }
